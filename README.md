@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @TuurMisp
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C#, CSS, HTML, PHP, SQL, PYTHON
+TuurMisp
+C#, CSS, HTML, PHP, SQL, PYTHON
 
 <!---
 TuurMisp/TuurMisp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
