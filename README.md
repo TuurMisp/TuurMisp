@@ -1,5 +1,5 @@
 TuurMisp
-C#, CSS, HTML, PHP, SQL, PYTHON
+C#, CSS, HTML, PHP, SQL, PYTHON, JavaScript
 
 <!---
 TuurMisp/TuurMisp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
